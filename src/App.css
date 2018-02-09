@@ -1,0 +1,100 @@
+.sideBar { 
+    z-index: 2000 !important;
+}
+.balenceSectionDiv {
+    
+    width: 45%;
+    height: 300px;
+    margin: 15px;
+    margin-left: 100px;
+    display: inline-table;
+}
+.balenceLabel {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+h4.coinType {
+    margin: 0px;
+    display: inline;
+    margin-right: 7px;
+    font-weight: initial;
+}
+h1.coinValue {
+    display: inline;
+}
+.priceVariation{
+    margin-left: 15px;
+}
+.currentCoin{
+    margin: 10px;
+    width: 35%;
+    display: inline-block;
+}
+.tradeCoin{
+    margin: 10px;
+    width: 55%;
+    display: inline-block;
+}
+.green{
+    color: rgb(10, 222, 10);
+    display: inline;
+}
+.graphRevenue {
+    
+    width: 45%;
+    height: 150px;
+    display: inline-block;
+    margin: 10px;
+}
+.graphlabel{
+    margin: 10px;
+    display: block;
+}
+.graphDollarTag{
+    margin-left: 10px;
+}
+.buttonClass{
+    display: inline-block !important;
+    margin: 5px;
+}
+.cardBlock {
+    margin: 15px;
+    width: 40%; 
+    display: inline-block;
+}
+.chartButton{
+    float: right;
+    margin: 2px;
+}
+.mainContainer, .sidebar__touchbox{
+    background-color: #F5F5F5;
+}
+.time-btn-group{
+    margin-right: 100px;
+    margin-bottom: 15px;
+    height: 22px;
+}
+.coinType{
+    margin-left: 100px; 
+}
+span.coinBlockNameSelected {
+    font-size: 25px;
+    color: white;
+}
+span.coinBlockValueSelected {
+    font-size: 40px;
+    color: white;
+    display: block;
+    margin-top: 15px;
+}
+span.coinBlockNameUnSelected {
+    font-size: 17px;
+    color: white;
+}
+span.coinBlockValueUnSelected {
+    font-size: 25px;
+    color: white;
+    display: block;
+    margin-top: 15px;
+}
